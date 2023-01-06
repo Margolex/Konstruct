@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Open Sans";
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 23px;
+  color: #48555b;
+}
+
+h1 {
+  font-family: "Bebas Neue";
+  font-weight: 400;
+  font-size: 60px;
+  line-height: 72px;
+  color: white;
+}
+
+h2 {
+  font-family: "Open Sans";
+  font-weight: 700;
+  font-size: 18px;
+  color: #48555b;
+}
