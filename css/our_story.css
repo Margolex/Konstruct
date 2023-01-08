@@ -1,0 +1,33 @@
+.our_story {
+  padding: 49px 0 127px;
+}
+
+.our_story_header {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.our_story_header::after {
+  display: block;
+  position: relative;
+  left: 50%;
+  top: 11px;
+  transform: translateX(-50%);
+  content: "";
+  margin-bottom: 81px;
+  width: 50px;
+  height: 2px;
+  background-color: #00a4e5;
+}
+
+.picture_box {
+  position: relative;
+}
+
+.picture_text {
+  text-transform: uppercase;
+  position: absolute;
+  top: 15px;
+  left: 14px;
+  color: white;
+}

@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  font-family: "Open Sans";
+  font-family: "Open Sans", sans-serif;
   font-weight: 400;
   font-size: 13px;
   line-height: 23px;
@@ -17,16 +17,29 @@ body {
 }
 
 h1 {
-  font-family: "Bebas Neue";
+  font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
   font-size: 60px;
   line-height: 72px;
   color: white;
+  letter-spacing: 5.71px;
 }
 
 h2 {
-  font-family: "Open Sans";
+  font-family: "Open Sans", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  color: #48555b;
+}
+
+.container {
+  max-width: 940px;
+  margin: 0 auto;
+}
+
+a {
+  text-transform: uppercase;
+  text-decoration: none;
+  color: inherit;
+  font-weight: 700;
+  font-size: 12px;
 }

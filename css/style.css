@@ -1,5 +1,7 @@
-@import "./reset.css";
+/* @import "./reset.css"; */
 @import "./fonts.css";
 @import "./config.css";
 @import "./header.css";
 @import "./footer.css";
+@import "./navigation.css";
+@import "./our_story.css";
