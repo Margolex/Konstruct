@@ -2,6 +2,12 @@
   padding: 49px 0 127px;
 }
 
+.fff {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
 .our_story_header {
   text-transform: uppercase;
   text-align: center;
@@ -20,7 +26,20 @@
   background-color: #00a4e5;
 }
 
+.our_story_text {
+  max-width: 405px;
+  margin: 0 30px;
+}
+
+.founded {
+  margin: 0 0 30px;
+}
+.colortext {
+  color: #00a4e5;
+}
+
 .picture_box {
+  display: inline-block;
   position: relative;
 }
 
