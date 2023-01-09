@@ -1,11 +1,5 @@
 .our_story {
-  padding: 49px 0 127px;
-}
-
-.fff {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+  padding: 49px 0 67px;
 }
 
 .our_story_header {
@@ -26,6 +20,12 @@
   background-color: #00a4e5;
 }
 
+.our_story_box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
 .our_story_text {
   max-width: 405px;
   margin: 0 30px;
@@ -36,6 +36,7 @@
 }
 .colortext {
   color: #00a4e5;
+  font-size: 20px;
 }
 
 .picture_box {
