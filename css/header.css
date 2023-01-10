@@ -7,13 +7,13 @@
 }
 
 .header_box {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
   text-align: center;
   color: white;
+  height: 769px;
   padding: 41px 0 71px;
-}
-
-.header_center {
-  margin: 306px 0 221px;
 }
 
 .header_text {

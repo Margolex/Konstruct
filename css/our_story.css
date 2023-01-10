@@ -22,13 +22,16 @@
 
 .our_story_box {
   display: flex;
-  flex-direction: row;
   justify-content: space-between;
 }
 
 .our_story_text {
   max-width: 405px;
-  margin-right: 50px;
+}
+
+.boxes {
+  display: flex;
+  align-items: center;
 }
 
 .founded {
@@ -44,6 +47,7 @@
 .picture_box {
   display: inline-block;
   position: relative;
+  margin-left: 15px;
 }
 
 .picture_text {
