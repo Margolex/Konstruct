@@ -1,5 +1,5 @@
 .our_story {
-  padding: 49px 0 67px;
+  padding: 49px 0 66px;
 }
 
 .our_story_header {
@@ -28,7 +28,7 @@
 
 .our_story_text {
   max-width: 405px;
-  margin: 0 30px;
+  margin-right: 50px;
 }
 
 .founded {

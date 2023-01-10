@@ -27,6 +27,7 @@ h1 {
 
 h2 {
   font-family: "Open Sans", sans-serif;
+  /* text-transform: uppercase; */
   font-weight: 700;
   font-size: 18px;
 }
