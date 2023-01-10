@@ -8,14 +8,9 @@
   align-items: center;
   padding-top: 120px;
 }
-/* 
-.get_in_box {
-  display: block;
-  text-align: center;
-  align-items: center;
-} */
 
 .get_question {
+  text-transform: none;
   font-size: 30px;
   line-height: 36px;
   letter-spacing: 0.15px;
